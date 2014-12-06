@@ -1,4 +1,4 @@
 hebrides.github.io
 ==================
 
-Bloggo
+This is where github's free blog would normally reside. I'm not using it yet :-)
